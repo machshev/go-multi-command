@@ -1,3 +1,3 @@
-module machshev.com/multi-command
+module machshev.com/mc
 
-go 1.21.4
+go 1.21
